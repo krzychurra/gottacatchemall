@@ -1,6 +1,6 @@
 import socket
 
-host = "10.10.203.155"
+host = ""
 port = 1337
 value = 0
 
